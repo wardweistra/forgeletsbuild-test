@@ -1,0 +1,12 @@
+{
+  "name": "ForgeLetsBuild",
+  "version": "0.1.0",
+  "description": "Put a description here",
+  "author": null,
+  "dependencies": {
+    "hl7.fhir.r4.core": "4.0.1"
+  },
+  "fhirVersions": null,
+  "devDependencies": null,
+  "canonicals": null
+}
